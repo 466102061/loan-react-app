@@ -1,4 +1,4 @@
-# loanApp
+# loan-react-app
 >nodejs+react+webpack
 
 1.安装包 npm install
