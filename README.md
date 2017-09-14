@@ -12,7 +12,8 @@
 
 #部分页面截图预览
 
-![image](https://github.com/466102061/loan-react-app/master/app/static/preview/1.png)
-![image](https://github.com/466102061/loan-react-app/master/app/static/preview/2.png)
-![image](https://github.com/466102061/loan-react-app/master/app/static/preview/3.png)
-![image](https://github.com/466102061/loan-react-app/master/app/static/preview/4.png)
+![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/1.png)
+![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/2.png)
+![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/3.png)
+![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/4.png)
+
