@@ -11,11 +11,11 @@
 
 ##### 备注：此项目仅用于学习交流，不可用于任何商业用途
 
-# 技术栈
+### 技术栈
 
 react/react-router+redux+koa/koa-router+webpack+nodejs
 
-# 运行项目
+### 运行项目
 
 1.安装包 npm install
 
@@ -26,7 +26,7 @@ react/react-router+redux+koa/koa-router+webpack+nodejs
 4.浏览 http://localhost:9090/
 
 
-# 部分页面截图预览
+### 部分页面截图预览
 
 ![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/1.png)
 ![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/2.png)
