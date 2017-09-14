@@ -1,0 +1,10 @@
+.loadMoreWrap{
+	height: 24px;
+	line-height: 24px;
+	font-size: 14px;
+	color: #31A4FF;
+	margin: 0 2px;
+	text-align: center;
+	background: #fff;
+}
+.loadMoreWrap span{cursor: pointer;}

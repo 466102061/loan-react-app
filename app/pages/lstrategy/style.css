@@ -1,0 +1,25 @@
+.wrap {
+    padding-bottom: 30px;
+}
+.img {
+    width: 100%;
+    height: auto;
+}
+.btnls {
+    width: 100%;
+    height: 44px;
+    display: block;
+    line-height: 44px;
+    text-align: center;
+    font-size: 16px;
+    background: #4180E9;
+    color: #fff;
+    cursor: pointer;
+}
+.btnls a {
+	display: block;
+	width: 100%;
+	height: 100%;
+    color: #fff;
+	text-decoration: none;
+}
